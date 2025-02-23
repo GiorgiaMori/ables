@@ -14,6 +14,10 @@ ABLeS offers access to:
 - support on adopting best practices and effectively sharing outputs;
 - a community-driven repository of bioinformatics software, including tools and workflows. 
 
+## Eligibility
+
+ABLeS is available to research groups and bioinformatics communities across Australia.
+
 ABLeS projects broadly align with the following three principles:
 
 1. Projects are life science related and contribute to producing and sharing data, research, or software-based outcomes.
@@ -22,15 +26,13 @@ ABLeS projects broadly align with the following three principles:
 
 3. Projects must plan and utilize ABLeS resources responsibly, recognizing their status as finite and consumable.
 
+
 More details are available in the ABLeS publication:
 
 > **Gustafsson, Ove Johan Ragnar, Al Bkhetan, Ziad, Francis, Rhys & Manos, Steven.** (2023). *Enabling national step changes in bioinformatics through ABLeS, the Australian BioCommons Leadership Share (3.0).* Zenodo. [https://doi.org/10.5281/zenodo.10139651](https://doi.org/10.5281/zenodo.10139651)
 
 You can also watch a 10 minute overview of ABLeS on the Australian BioCommons YouTube Channel:
 >**[Introduction to ABLeS](https://youtu.be/fvUfzpaHz3U)**
-
-## Eligibility
-
 
 
 ## Quick access links
