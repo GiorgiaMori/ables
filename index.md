@@ -62,7 +62,7 @@ More details are provided in the table below:
     <td class="tg-baqh">Data centric outcomes</td>
     <td class="tg-0lax">Production of reference and derived data assets that will be published to enable use / reuse by others outside the group.</td>
     <td class="tg-baqh">&#10003</td>
-    <td class="tg-baqh"><&#10003/td>
+    <td class="tg-baqh">&#10003</td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
