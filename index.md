@@ -69,7 +69,7 @@ More details are provided in the table below:
     <td class="tg-baqh">Research centric outcomes</td>
     <td class="tg-0lax">Production of data assets and outputs that are critical to research projects and consortia making use of best practice, production level bioinformatics approaches.</td>
     <td class="tg-baqh"></td>
-    <td class="tg-ibb5"></td>
+    <td class="tg-baqh">&#10003;</td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
@@ -77,27 +77,27 @@ More details are provided in the table below:
     <td class="tg-0lax">Creation, development, installation, testing and/or optimisation of software that will be made available for use / reuse by others in the life sciences community.</td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
-    <td class="tg-ibb5"></td>
+    <td class="tg-baqh">&#10003;</td>
   </tr>
   <tr>
     <td class="tg-baqh">Common research theme</td>
     <td class="tg-0lax">A defined cross-institutional collaboration, project, community, consortium, or some other collaborative construct, that is focused on a common research theme.</td>
-    <td class="tg-ibb5" colspan="3"></td>
+    <td class="tg-baqh" colspan="3">&#10003;</td>
   </tr>
   <tr>
     <td class="tg-baqh">Development & optimisation</td>
     <td class="tg-0lax">Groups work to understand their software, methods and the optimal approaches to solving the bioinformatics problems at hand. ABLeS will facilitate both the experimental / testing and production phases of computational analyses.</td>
-    <td class="tg-ibb5" colspan="3"></td>
+    <td class="tg-baqh" colspan="3">&#10003;</td>
   </tr>
   <tr>
     <td class="tg-baqh">Planned usage of ABLeS resources</td>
     <td class="tg-0lax">The use of ABLeS resources is planned and approached with a level of care appropriate to their status as limited and consumable resources.</td>
-    <td class="tg-ibb5" colspan="3"></td>
+    <td class="tg-baqh" colspan="3">&#10003;</td>
   </tr>
   <tr>
     <td class="tg-baqh">Sharing</td>
     <td class="tg-0lax">Appropriate mechanisms are used to share outputs that support and assist other groups, with examples provided <a href="https://doi.org/10.5281/zenodo.10139651">in the ABLeS publication</a>. Outputs include software, methods, training, resource usage and quality assessments for derived reference data sets, submissions to data international repositories and research publications.</td>
-    <td class="tg-ibb5" colspan="3"></td>
+    <td class="tg-baqh" colspan="3">&#10003;</td>
   </tr>
 </tbody>
 </table>
