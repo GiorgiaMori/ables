@@ -29,6 +29,10 @@ More details are available in the ABLeS publication:
 You can also watch a 10 minute overview of ABLeS on the Australian BioCommons YouTube Channel:
 >**[Introduction to ABLeS](https://youtu.be/fvUfzpaHz3U)**
 
+## Eligibility
+
+
+
 ## Quick access links
 
 <div class="grid gap-2" style="box-sizing: content-box;">
@@ -37,7 +41,6 @@ You can also watch a 10 minute overview of ABLeS on the Australian BioCommons Yo
     <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://docs.google.com/forms/d/e/1FAIpQLScpiyqERdxw6gMxjlq_CkiI3qvJ60YaeWHKTJChMjcnv8aBBA/viewform?usp=sf_link" style="margin:10px;  padding: 10px 0px 10px 0px;"> Request Software Installation</a>
     <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://docs.google.com/forms/d/e/1FAIpQLSere1PvgPEuJkpvQUk1-11C88IAeQNQKEUFc-Qgbn5GgKK2jw/viewform?usp=sf_link" style="margin:10px;  padding:10px;">Request Help</a>
     <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://docs.google.com/forms/d/e/1FAIpQLSdO1w-RY8OexUBwJx8BHNMwSRNPA3_-5r6pefdQW8ancbKZqw/viewform?usp=sf_link" style="margin:10px;  padding:10px;">Report Project Outcome</a>
-    <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="/ables/if89/" style="margin:10px;  padding:10px;">Available Tools</a>
 </div>
 
 ## Acknowledgements
