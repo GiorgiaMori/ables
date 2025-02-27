@@ -1,20 +1,22 @@
 # see https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
 subitems:
-  - title: Home
+  - title: About ABLeS
     url: /index
   - title: Getting started
     url: /processes
-  - title: Available resources
+  - title: ABLeS resources
     url: /resources
-  - title: ABLeS Participants
+  - title: ABLeS output
+    url: /output
+  - title: ABLeS participants
     url: /participants
   - title: Shared software and reference data
     url: /if89
   - title: Acknowledging ABLeS
     url: /acknowledgements
-  - title: Help and contact details
+  - title: Contact us
     url: /contact-us
   - title: FAQ
     url: /faq
-  - title: Team
+  - title: ABLeS Team
     url: /team
